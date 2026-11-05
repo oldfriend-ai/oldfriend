@@ -1,0 +1,14 @@
+{
+  "name": "oldfriend",
+  "version": "0.1.0",
+  "description": "An AI that grows with you: remembers your preferences, follows your corrections, and writes a weekly letter. Your memory stays in plain files on your own computer.",
+  "author": {
+    "name": "Penchan",
+    "email": "dev@penchan.co",
+    "url": "https://github.com/oldfriend-ai/oldfriend"
+  },
+  "homepage": "https://github.com/oldfriend-ai/oldfriend",
+  "repository": "https://github.com/oldfriend-ai/oldfriend",
+  "license": "MIT",
+  "keywords": ["memory", "assistant", "zh-TW"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "oldfriend",
+  "owner": {
+    "name": "Penchan",
+    "email": "dev@penchan.co"
+  },
+  "metadata": {
+    "description": "OldFriend: an AI that grows with you. It remembers your preferences and helps you get things done over time."
+  },
+  "plugins": [
+    {
+      "name": "oldfriend",
+      "source": "./plugins/oldfriend",
+      "description": "Memory and growth rules for your own AI assistant: remembers your preferences, follows your corrections, writes a weekly letter."
+    }
+  ]
+}
