@@ -2,11 +2,12 @@
 
 # OldFriend 老朋友
 
+![OldFriend：與你成長的 AI](assets/cover.png)
+
 **與你成長的 AI**
 
 記得你的喜好，陪你一路把事做好
 
-<!-- STORY: Penchan's words. Edit here. -->
 ## 為什麼做這個
 
 這個專案對我的意義非比尋常，可以說是我最重要的專案。我一直覺得，AI agent 是長期一起做事的夥伴，而不是用完即丟的工具。
@@ -14,7 +15,6 @@
 我從 2026 年 1 月開始實驗，1 月 31 日第一次用開源 agent，之後每天都和它一起工作。我希望我的 AI agent 從第一次接觸開始，慢慢走進生活的各個面向，一起把事情做好。
 
 OldFriend 是我把這套做法整理出來、免費分享的第一步。
-<!-- /STORY -->
 
 ## OldFriend 是什麼
 
@@ -127,4 +127,4 @@ OldFriend 是獨立的開源專案，和 Anthropic、xAI/SpaceXSI、OpenAI 都�
 
 ---
 
-By Penchan P · [MIT 授權](LICENSE)
+By Penchan P · [MIT 授權](LICENSE) · 封面圖保留所有權利，見 [assets/LICENSE](assets/LICENSE)。

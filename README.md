@@ -2,15 +2,15 @@
 
 # OldFriend
 
+![OldFriend: an AI that grows with you](assets/cover.png)
+
 **An AI that grows with you.** It remembers your preferences and helps you get things done over time.
 
 OldFriend is a free, open-source memory and productivity package for the AI assistant you already use: Claude Code, Grok Bot, or another agent. It is a set of rules and skills that keeps a small plain-text memory on your assistant's computer, saves your corrections in your own words, and writes you a weekly letter. There is nothing to host and no account to make with us.
 
-<!-- STORY: Penchan's words. Edit here. -->
 ## Why I built it
 
 I started working with AI agents in January 2026, and on 2026-01-31 I spent my first day on an open-source agent. I've always seen an AI agent as a long-term partner for getting things done, not a disposable tool you give orders to. I want mine to work with me from the first conversation on, across more and more of my life. OldFriend is the first piece of that practice I'm sharing.
-<!-- /STORY -->
 
 ## What v0.1 does
 
@@ -110,4 +110,4 @@ OldFriend is an independent open-source project, not affiliated with or endorsed
 
 ---
 
-By Penchan P · [MIT License](LICENSE)
+By Penchan P · [MIT License](LICENSE) · Cover art: all rights reserved, see [assets/LICENSE](assets/LICENSE).
